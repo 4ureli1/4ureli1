@@ -9,8 +9,8 @@
   </a>
   <a href="https://github.com/4ureli1">
     <img
-      src="https://img.shields.io/static/v1?logo=linkedin&style=flat-square&color=0072b1&label=LinkedIn&message=%E2%98%86"
-      alt="LinkedIn"
+      src="https://img.shields.io/static/v1?logo=github&style=flat-square&color=0072b1&label=LinkedIn&message=%E2%98%86"
+      alt="Github"
     />
   </a>
 
@@ -28,5 +28,3 @@
 ## I am 4ureli1
 
 - Developer
-
-![Metrics](https://raw.githubusercontent.com/4ureli1/4ureli1/github-metrics/github-metrics.svg)
