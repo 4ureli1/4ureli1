@@ -1,17 +1,32 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**4ureli1/4ureli1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="left">
+  <a href="https://twitter.com/4ureli1">
+    <img
+      src="https://img.shields.io/twitter/follow/4ureli1?label=Twitter&logo=twitter&style=flat-square&color=1da1f2&logoColor=ffffff"
+      alt="Twitter"
+    />
+  </a>
+  <a href="https://github.com/4ureli1">
+    <img
+      src="https://img.shields.io/static/v1?logo=linkedin&style=flat-square&color=0072b1&label=LinkedIn&message=%E2%98%86"
+      alt="LinkedIn"
+    />
+  </a>
 
-Here are some ideas to get you started:
+  <a href="https://api.daily.dev/get?r=4ureli1" target="_blank">
+    <img
+      width="256"
+      align="right"
+      src="https://github.com/4ureli1/4ureli1/blob/main/devcard.svg"
+    />
+  </a>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<a href="https://app.daily.dev/4ureli1"><img src="https://github.com/4ureli1/4ureli1/blob/main/devcard.svg" width="400" alt="4ureli1's Dev Card"/></a>
+<br />
+
+## I am 4ureli1
+
+- Developer
+
+![Metrics](https://raw.githubusercontent.com/4ureli1/4ureli1/github-metrics/github-metrics.svg)
